@@ -1,0 +1,4 @@
+Select *
+from student
+where firstname = "Don"
+and Grade = "B"
